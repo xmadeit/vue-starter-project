@@ -1,4 +1,4 @@
-# vue-starter-project
+# Резюме на Vue
 
 ## Project setup
 ```
